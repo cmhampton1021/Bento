@@ -37,7 +37,7 @@
   /* Dark Colors  */
   --accent: #57a0d9; /* Hover color */
   --background: #19171a; /* Background color */
-  --cards: rgba(32, 30, 33, 0.9); /* Cards color */
+  --cards: rgba(32, 30, 33, 0.1); /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
