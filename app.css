@@ -27,7 +27,7 @@
   --cards-hover: rgba(232, 230, 233, 1);
 
   /* Image background  */
-  --imgbg: url(assets/background.jpg); /* Image URL */
+  --imgbg: url(assets/makapuu.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
@@ -81,6 +81,8 @@ body {
 .withImageBackground {
   background-image: var(--imgcol), var(--imgbg);
   background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
 }
 
 #themeButton {
